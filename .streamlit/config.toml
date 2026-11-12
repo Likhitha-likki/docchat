@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 10          # MB per PDF, keeps the public demo cheap and safe
+
+[browser]
+gatherUsageStats = false
